@@ -1,0 +1,20 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-transform: capitalize;
+}
+
+
+.card:hover {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.done:hover {
+  background-color: none;
+}
+
+.title {
+  white-space:pre-line !important;
+  overflow-wrap: break-word !important;
+}
